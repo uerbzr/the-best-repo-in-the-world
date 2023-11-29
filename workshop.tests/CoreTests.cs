@@ -2,7 +2,7 @@ using workshop.console;
 
 namespace workshop.tests;
 
-public class Tests
+public class CoreTests
 {
     [SetUp]
     public void Setup()
